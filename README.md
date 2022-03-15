@@ -14,7 +14,7 @@ There is a sample scene in `\Assets\_LilitheLotor_`.
 
 It contains an example elevator with the script applied.
 
-![image](https://user-images.githubusercontent.com/1637212/158292598-570612d3-9755-4d63-a5c7-ca31b7dd1a20.png)
+![image](https://user-images.githubusercontent.com/1637212/158293251-a4e8606d-b88b-4615-a0b1-76506d22f6fe.png)
 
 The elevator has a platform object with the relevant script applied:
 
