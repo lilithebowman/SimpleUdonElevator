@@ -12,7 +12,7 @@ Import the files from this repository into your project.
 
 There is a sample scene in `\Assets\_LilitheLotor_`.
 
-It contains an example elevator with the script applied.
+It contains an example elevator:
 
 ![image](https://user-images.githubusercontent.com/1637212/158293251-a4e8606d-b88b-4615-a0b1-76506d22f6fe.png)
 
