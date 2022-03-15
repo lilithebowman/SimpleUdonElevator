@@ -5,10 +5,10 @@ A simple elevator platform compatible with Udon Object Sync which maintains netw
 This project requires the VRChat SDK 3 and UdonSharp to function.
 
 # Instructions
-Import the VRCSDK3.
-Import UdonSharp.
-Ensure you have no console errors. If necessary, reimport all in the Project panel.
-Import the files from this repository into your project.
+ - Import the VRCSDK3.
+ - Import UdonSharp.
+ - Ensure you have no console errors. If necessary, reimport all in the Project panel.
+ - Import the files from this repository into your project.
 
 There is a sample scene in `\Assets\_LilitheLotor_`.
 
