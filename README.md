@@ -1,7 +1,7 @@
 # SimpleUdonElevator
 A simple elevator platform compatible with Udon Object Sync which maintains network synchronization while the platform is moving.
 
-# Dependancies
+# Dependencies
 This project requires the VRChat SDK 3 and UdonSharp to function.
 
 # Instructions
